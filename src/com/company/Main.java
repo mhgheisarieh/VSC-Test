@@ -5,7 +5,7 @@ public class Main {
         System.out.println("hello Hasan");
         for (int i=0 ; i < 79 ;i++)
             System.out.println("Helloooo");
-        
+
         System.out.println("Goood");
     }
 }
